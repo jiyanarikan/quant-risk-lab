@@ -1,4 +1,4 @@
-# quant-risk-lab
+# ark-risk-lab
 
 Forensic analysis of public sector procurement using linear algebra and gradient boosting.
 
